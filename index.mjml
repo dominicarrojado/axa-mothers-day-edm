@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title> AXA Mother's Day </mj-title>
+    <mj-title> AXA Mother's Day | Dominic Arrojado </mj-title>
 
     <!-- START of Global Attributes -->
     <mj-breakpoint width="800px" />
@@ -147,7 +147,7 @@
       />
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="AXA Mother's Day - Dominic Arrojado" />
+      <meta property="og:title" content="AXA Mother's Day | Dominic Arrojado" />
       <meta
         property="og:description"
         content="Email template for AXA Mother's Day"
@@ -156,10 +156,7 @@
         property="og:url"
         content="https://dominicarrojado.com/axa-mothers-day-edm/"
       />
-      <meta
-        property="og:site_name"
-        content="AXA Mother's Day - Dominic Arrojado"
-      />
+      <meta property="og:site_name" content="Dominic Arrojado" />
       <meta
         property="og:image"
         content="https://dominicarrojado.com/axa-mothers-day-edm/images/axa-mothers-day-screenshot.png"
@@ -177,7 +174,7 @@
       />
       <meta
         name="twitter:title"
-        content="AXA Mother's Day - Dominic Arrojado"
+        content="AXA Mother's Day | Dominic Arrojado"
       />
       <meta
         name="twitter:image"
